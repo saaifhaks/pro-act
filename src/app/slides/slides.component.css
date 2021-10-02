@@ -1,0 +1,16 @@
+.mat-card{
+  padding: 4px;
+  font-size: xx-large;
+  padding: 8px;
+  box-shadow: 3px 4px 3px 3px #35ad99b2;
+  margin: 8px;
+  text-align: center;
+}
+
+
+.carosel .carousel-cell img{
+  object-fit: fill;
+  width:100%;
+  border-radius: 25px;
+  margin: 4px;
+}

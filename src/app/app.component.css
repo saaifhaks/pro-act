@@ -1,0 +1,10 @@
+img {
+  border: 1px solid black;
+  height: 500px;
+  width: 900px;
+  object-fit: fill;
+}
+
+mat-tab {
+  font-size: larger;
+}

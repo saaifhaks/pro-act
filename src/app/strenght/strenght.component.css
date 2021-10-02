@@ -1,0 +1,32 @@
+
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 47vh;
+  height: 40vh;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  max-width: 50vh;
+  width: auto;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+.example-card {
+  width: auto;
+  height: auto;
+  margin: 7px;
+  float: left;
+  box-shadow: 2px 2px 2px 2px rgba(19, 18, 18, 0.301);
+  overflow: hidden;
+}
